@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(250, 163, 131);
+}
+
+.naruto {
+    position: absolute;
+    left: 400px;
+    top: 0px;
+    z-index: -1;
+  }
